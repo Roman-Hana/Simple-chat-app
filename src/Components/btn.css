@@ -1,0 +1,25 @@
+.btn-grad {
+  background-image: linear-gradient(
+    to right,
+    #dd5e89 0%,
+    #f7bb97 51%,
+    #dd5e89 100%
+  );
+}
+.btn-grad {
+  padding: 15px 45px !important;
+  text-align: center !important;
+  text-transform: uppercase !important;
+  transition: 0.5s !important;
+  background-size: 200% auto !important;
+  color: white !important;
+  box-shadow: 0 0 20px #eee !important;
+  border-radius: 10px !important;
+  display: block !important;
+}
+
+.btn-grad:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
