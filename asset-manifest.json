@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Simple-chat-app/static/css/main.602f7cda.chunk.css",
+    "main.js": "/Simple-chat-app/static/js/main.beca933c.chunk.js",
+    "main.js.map": "/Simple-chat-app/static/js/main.beca933c.chunk.js.map",
+    "runtime-main.js": "/Simple-chat-app/static/js/runtime-main.843ab564.js",
+    "runtime-main.js.map": "/Simple-chat-app/static/js/runtime-main.843ab564.js.map",
+    "static/js/2.a5753716.chunk.js": "/Simple-chat-app/static/js/2.a5753716.chunk.js",
+    "static/js/2.a5753716.chunk.js.map": "/Simple-chat-app/static/js/2.a5753716.chunk.js.map",
+    "index.html": "/Simple-chat-app/index.html",
+    "static/css/main.602f7cda.chunk.css.map": "/Simple-chat-app/static/css/main.602f7cda.chunk.css.map",
+    "static/js/2.a5753716.chunk.js.LICENSE.txt": "/Simple-chat-app/static/js/2.a5753716.chunk.js.LICENSE.txt",
+    "static/media/google-plus-4.3e313fb4.svg": "/Simple-chat-app/static/media/google-plus-4.3e313fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843ab564.js",
+    "static/js/2.a5753716.chunk.js",
+    "static/css/main.602f7cda.chunk.css",
+    "static/js/main.beca933c.chunk.js"
+  ]
+}
